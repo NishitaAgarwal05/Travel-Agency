@@ -18,8 +18,10 @@ The project structure includes the following main components:
 ## Setup
 To set up the project, follow these steps:
 - Clone the repository from GitHub.
+- PostgreSQL database up and running at port 5432
 - Open the project in your preferred Java IDE.
 - Ensure you have Java and Maven installed on your system.
+- Ensure that you have lombok plugin installed for for IDE.
 - Resolve any dependencies specified in the pom.xml file.
 
 # **HLD Diagram**
