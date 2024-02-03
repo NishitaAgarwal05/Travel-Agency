@@ -30,4 +30,4 @@ To set up the project, follow these steps:
 ![Activity Component](Diagrams/LLD/Components/ActivityComponent.JPG)
 ![TravelPackage Component](Diagrams/LLD/Components/TravelComponent.JPG)
 ![Passenger Component](Diagrams/LLD/Components/PassengerComponent.JPG)
-![Activity Component](Diagrams/LLD/Components/ActivityComponent.JPG)
+![Destination Component](Diagrams/LLD/Components/DestinationComponent.JPG)
