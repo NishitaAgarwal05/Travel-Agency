@@ -21,3 +21,13 @@ To set up the project, follow these steps:
 - Open the project in your preferred Java IDE.
 - Ensure you have Java and Maven installed on your system.
 - Resolve any dependencies specified in the pom.xml file.
+
+# **HLD Diagram**
+![HLD Diagram](Diagrams/HLD.jpg)
+
+# **UML for classes**
+![UML Model Classes](Diagrams/LLD/Models/models.JPG) 
+![Activity Component](Diagrams/LLD/Components/ActivityComponent.JPG)
+![TravelPackage Component](Diagrams/LLD/Components/TravelComponent.JPG)
+![Passenger Component](Diagrams/LLD/Components/PassengerComponent.JPG)
+![Destination Component](Diagrams/LLD/Components/DestinationComponent.JPG)
